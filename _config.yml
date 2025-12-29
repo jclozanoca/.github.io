@@ -2,6 +2,7 @@ title: "Juan C. Lozano"
 description: "Researcher in Cyber-Physical Systems Security, Power Grid Protocols, and Applied ML"
 url: "https://juanclozano.com"
 baseurl: ""
+build_year: "2025"
 
 theme: minima
 
