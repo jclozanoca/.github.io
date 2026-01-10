@@ -18,4 +18,4 @@ K Koneru, **J Lozano**, J Castellanos, E Zambon, A Cardenas, "Unveiling the Oper
 
 **J Lozano**, K Koneru, JH Castellanos, A Cardenas, "Timing analysis of goose in a real-world substation", IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 160 - 165, 2022
 
-D Vanegas, CC Galindo, IA Páez, LX González, PT Medina, **J Lozano**, B Camacho, AM Perdomo,"Human Leukocyte Antigen and Red Blood Cells Impact Umbilical Cord Blood CD34+ Cell Viability after Thawing", International journal of molecular sciences 20 (19), 4875, 2019
+D Vanegas, CC Galindo, IA Páez, LX González, PT Medina, **J Lozano**, B Camacho, AM Perdomo, "Human Leukocyte Antigen and Red Blood Cells Impact Umbilical Cord Blood CD34+ Cell Viability after Thawing", International journal of molecular sciences 20 (19), 4875, 2019
